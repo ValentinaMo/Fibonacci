@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4716c92b-986e-449d-bf64-ecce892d9a8e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2IdvvuD8AX1JoQeikcWKOnbTrxS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Fibonacci" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4716c92b-986e-449d-bf64-ecce892d9a8e" name="Default Changelist" comment="" />
+      <created>1670524508158</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670524508158</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1470" height="377" key="GridCell.Tab.0.bottom" timestamp="1670525797781">
+      <screen x="0" y="38" width="1512" height="872" />
+    </state>
+    <state width="1470" height="377" key="GridCell.Tab.0.bottom/0.38.1512.872/1512.25.1600.875@0.38.1512.872" timestamp="1670525797781" />
+    <state width="1555" height="398" key="GridCell.Tab.0.bottom/0.38.1512.872/1512.25.1600.875@1512.25.1600.875" timestamp="1670525449962" />
+    <state width="1470" height="377" key="GridCell.Tab.0.center" timestamp="1670525797779">
+      <screen x="0" y="38" width="1512" height="872" />
+    </state>
+    <state width="1470" height="377" key="GridCell.Tab.0.center/0.38.1512.872/1512.25.1600.875@0.38.1512.872" timestamp="1670525797779" />
+    <state width="1555" height="398" key="GridCell.Tab.0.center/0.38.1512.872/1512.25.1600.875@1512.25.1600.875" timestamp="1670525449962" />
+    <state width="1470" height="377" key="GridCell.Tab.0.left" timestamp="1670525797778">
+      <screen x="0" y="38" width="1512" height="872" />
+    </state>
+    <state width="1470" height="377" key="GridCell.Tab.0.left/0.38.1512.872/1512.25.1600.875@0.38.1512.872" timestamp="1670525797777" />
+    <state width="1555" height="398" key="GridCell.Tab.0.left/0.38.1512.872/1512.25.1600.875@1512.25.1600.875" timestamp="1670525449961" />
+    <state width="1470" height="377" key="GridCell.Tab.0.right" timestamp="1670525797780">
+      <screen x="0" y="38" width="1512" height="872" />
+    </state>
+    <state width="1470" height="377" key="GridCell.Tab.0.right/0.38.1512.872/1512.25.1600.875@0.38.1512.872" timestamp="1670525797780" />
+    <state width="1555" height="398" key="GridCell.Tab.0.right/0.38.1512.872/1512.25.1600.875@1512.25.1600.875" timestamp="1670525449962" />
+    <state width="1555" height="343" key="GridCell.Tab.1.bottom" timestamp="1670525382338">
+      <screen x="1512" y="25" width="1600" height="875" />
+    </state>
+    <state width="1555" height="343" key="GridCell.Tab.1.bottom/0.38.1512.872/1512.25.1600.875@1512.25.1600.875" timestamp="1670525382338" />
+    <state width="1555" height="343" key="GridCell.Tab.1.center" timestamp="1670525382337">
+      <screen x="1512" y="25" width="1600" height="875" />
+    </state>
+    <state width="1555" height="343" key="GridCell.Tab.1.center/0.38.1512.872/1512.25.1600.875@1512.25.1600.875" timestamp="1670525382337" />
+    <state width="1555" height="343" key="GridCell.Tab.1.left" timestamp="1670525382337">
+      <screen x="1512" y="25" width="1600" height="875" />
+    </state>
+    <state width="1555" height="343" key="GridCell.Tab.1.left/0.38.1512.872/1512.25.1600.875@1512.25.1600.875" timestamp="1670525382337" />
+    <state width="1555" height="343" key="GridCell.Tab.1.right" timestamp="1670525382337">
+      <screen x="1512" y="25" width="1600" height="875" />
+    </state>
+    <state width="1555" height="343" key="GridCell.Tab.1.right/0.38.1512.872/1512.25.1600.875@1512.25.1600.875" timestamp="1670525382337" />
+  </component>
+</project>
