@@ -1,10 +1,14 @@
+import Coffes.CoffeMachine;
+
+import java.io.PrintStream;
 import java.util.HashSet;
+import java.util.Scanner;
 import java.util.stream.Collectors;
 
 public class Main {
     public static void main(String[] args){
 
-        //Comment the other methods when any method is running
+        //Comment the Execption() method to execute the other methods
 
         //1.	Print to console all Fibonacci numbers which are less than <100.
         Fibonacci(); //Return all Fibonacci numbers less than 100
@@ -27,13 +31,20 @@ public class Main {
 
         //7.    Please reverse this string, but without using any standard functions
         ReverseString();
+
+        //8.    Create design for a coffee machine
+        CoffeMachine coffeMachine = new CoffeMachine();
+        //We have 3 types of coffees "Cappuccino, Late, Carajillo but we can create any type of coffee just building the ingredients
+        //in the CoffeMachine selecting method. The method receives the size and the number of coffees we want
+        coffeMachine.SelectingCoffee("Cappuccino", "small", 3);
+
     }
 
 
 
     static void Fibonacci(){
         int num1 = 0, num2 = 1, fibonnaci = 0, flag = 0;
-        while (fibonnaci < 100){
+        while (fibonnaci < 89){
             fibonnaci = num1 + num2;
             System.out.println(fibonnaci);
             num1 = num2;
@@ -113,6 +124,7 @@ public class Main {
             finalWord = finalWord + reverseWord[cont];
             cont++;
         }
-        System.out.println(finalWord);
+        PrintStream stream = new PrintStream(System.out);
+        stream.print(finalWord);
     }
 }
